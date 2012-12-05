@@ -7,6 +7,7 @@ Currently has two sensors:
  * Two zinc-plated nails for soil moisture
 
 [Cosm feed here.](https://cosm.com/feeds/87022)
+[Twitter feed here.](https://twitter.com/biljkich)
 
 ## Why it is
 Why not?
